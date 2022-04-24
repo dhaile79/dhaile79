@@ -1,9 +1,9 @@
 
 # Hi there 👋 , I am Daniel Haile
 
-[![Website](https://img.shields.io/website?label=Upwork&style=for-the-badge&url=https://www.upwork.com/freelancers/~019565cf421b13b15e)](https://www.upwork.com/freelancers/~019565cf421b13b15e)
-[![Twitter Follow](https://img.shields.io/twitter/follow/QADIR?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Qadir77350473)
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qadir-hassan)
+[![Website](https://img.shields.io/website?label=Upwork&style=for-the-badge&url=https://www.upwork.com/freelancers/~019565cf421b13b15e)]()
+[![Twitter Follow](https://img.shields.io/twitter/follow/QADIR?color=1DA1F2&logo=twitter&style=for-the-badge)]()
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hailedaniel/)
 ![](https://komarev.com/ghpvc/?username=dhaile79&style=flat-square)
 
 
