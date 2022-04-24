@@ -16,7 +16,7 @@
 [<img align="left" alt="qadirhassan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' width='25px'>](https://www.facebook.com/qadir.hassan.142)  
 ***
-🏢 I’m currently working in Knoldus as Sr. DevOps Engineer
+🏢 I’m currently working in Knoldus DevOps Engineer
 
 🌱 I’m currently working on Setting up infra using Terraform over AWS
 
@@ -53,6 +53,42 @@
 🎖 Packaging Applications using Helm - Pluralsight and many more...
 
 🎖🎖🎖 Complete list of my certifications [here][course]
+
+#### Programming Language Stack
+<img align="left" alt="Bash" width="60px" src="https://camo.githubusercontent.com/bbb327d6ba7708520eaafd13396fed64d73bf5df5c4cdd0ba03cf0843f7a9340/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667"   />
+<img align="left" alt="Python" width="60px" src="https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-python-programming-language-icon.png" />
+<img align="left" alt="Groove" width="60px" src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" />
+<img align="left" alt="Java" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Go" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+
+<br />
+<br />
+<br />
+
+#### OS Stack
+<img align="left" alt="Linux" width="60px" src="https://camo.githubusercontent.com/f8863581007c966af689a3b607d9eb36ce022285431cf3d322f06fb69c38d316/68747470733a2f2f6272616e646c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30332f4c696e75782d6c6f676f2e706e67" />
+<img align="left" alt="Ubuntu" width="60px" src="https://camo.githubusercontent.com/f903efdd3558d099c54fafbce2aff0ccfa5a2a08d325fdd5884822ea4c270f60/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7562756e74752f7562756e74752d69636f6e2e737667" />
+<img align="left" alt="Alpine" width="60px" src="https://camo.githubusercontent.com/a4458dc7a967f71993f909bf138f3b54ee32a4ccc15eabeb57989881a766b28e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616c70696e656c696e75782f616c70696e656c696e75782d69636f6e2e737667" />
+<img align="left" alt="Cento" width="60px" src="https://camo.githubusercontent.com/5d2c47a2ec345b97f940cfc9d3ffaae7440c0c40ff7ba2a559e9559bf4d6f88f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f63656e746f732f63656e746f732d69636f6e2e737667" />
+
+<br />
+<br />
+<br />
+
+
+
+
+<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<img align="left" alt="JavaScript" width="60px" src="https://miro.medium.com/max/1400/1*Y1hq9sHXG26Fyhys81z8rg.png" />
+<img align="left" alt="C++" width="40px" src="https://www.codeguru.com/wp-content/uploads/2003/02/C-tutorials.jpg" />
+<img align="left" alt="C++" width="60px" src="https://s.w.org/about/images/logos/wordpress-logo-stacked-rgb.png" />
+
+<br />
+<br />
 
 
 
