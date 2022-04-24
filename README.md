@@ -1,7 +1,7 @@
 
 # Hi there 👋 , I am Daniel Haile
 
-[![Website](https://img.shields.io/website?label=Upwork&style=for-the-badge&url=https://www.upwork.com/freelancers/~019565cf421b13b15e)]()
+[![Website](https://img.shields.io/website?label=Upwork&style=for-the-badge&url=)]()
 [![Twitter Follow](https://img.shields.io/twitter/follow/Daniel.H?color=1DA1F2&logo=twitter&style=for-the-badge)]()
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hailedaniel/)
 ![](https://komarev.com/ghpvc/?username=dhaile79&style=flat-square)
@@ -9,12 +9,11 @@
 
 #### The DevOps Guy who ♥ automating stuff
 
-[<img align="left" alt="qadirhassan.com.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="qadirhassan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+
 [<img align="left" alt="qadirhassan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="qadirhassan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="qadirhassan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[//]: # [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' width='25px'>](https://www.facebook.com/qadir.hassan.142)  
 ***
 
 🏢 I’m currently working in Rackspace Senior Cloud Engineer, looking to transiotn into DevOps/SRE Roles
