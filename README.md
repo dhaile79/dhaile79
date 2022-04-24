@@ -26,7 +26,7 @@
 
 💬 Ask me about DevOps Tools and Practices
 
-📫 You can reach me at yatharth0045@gmail.com
+📫 You can reach me at danielehaile@hotmail.com
 
 ⚡ Fun fact We guys automate stuff
 
