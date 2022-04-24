@@ -14,8 +14,9 @@
 [<img align="left" alt="qadirhassan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="qadirhassan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="qadirhassan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' width='25px'>])  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' width='25px'>](https://www.facebook.com/qadir.hassan.142)  
 ***
+
 🏢 I’m currently working in Rackspace Senior Cloud Engineer, looking to transiotn into DevOps/SRE Roles
 
 🌱 I’m currently working on Setting up infra using Terraform over AWS
