@@ -110,5 +110,4 @@
 [twitter]: https://twitter.com/Qadir77350473
 [youtube]: https://www.youtube.com/channel/UCRUrJPsXvjsblevu514rkbQ
 [instagram]: https://www.instagram.com/qadir109/
-[linkedin]: https://www.linkedin.com/in/qadir-hassan/
 [linkedin]: https://www.linkedin.com/in/hailedaniel/
