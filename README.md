@@ -54,48 +54,27 @@
 
 🎖🎖🎖 Complete list of my certifications [here][course]
 
-#### Programming Language Stack
-<img align="left" alt="Bash" width="60px" src="https://camo.githubusercontent.com/bbb327d6ba7708520eaafd13396fed64d73bf5df5c4cdd0ba03cf0843f7a9340/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667"   />
-<img align="left" alt="Python" width="60px" src="https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-python-programming-language-icon.png" />
-<img align="left" alt="Groove" width="60px" src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" />
-<img align="left" alt="Java" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Go" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 
-<br />
-<br />
-<br />
+#### Programming Language Stack
+<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" title="go" width="40" height="40"/> </p>
 
 #### OS Stack
-<img align="left" alt="Linux" width="60px" src="https://camo.githubusercontent.com/f8863581007c966af689a3b607d9eb36ce022285431cf3d322f06fb69c38d316/68747470733a2f2f6272616e646c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30332f4c696e75782d6c6f676f2e706e67" />
-<img align="left" alt="Ubuntu" width="60px" src="https://camo.githubusercontent.com/f903efdd3558d099c54fafbce2aff0ccfa5a2a08d325fdd5884822ea4c270f60/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7562756e74752f7562756e74752d69636f6e2e737667" />
-<img align="left" alt="Alpine" width="60px" src="https://camo.githubusercontent.com/a4458dc7a967f71993f909bf138f3b54ee32a4ccc15eabeb57989881a766b28e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616c70696e656c696e75782f616c70696e656c696e75782d69636f6e2e737667" />
-<img align="left" alt="Cento" width="60px" src="https://camo.githubusercontent.com/5d2c47a2ec345b97f940cfc9d3ffaae7440c0c40ff7ba2a559e9559bf4d6f88f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f63656e746f732f63656e746f732d69636f6e2e737667" />
-
-<br />
-<br />
-<br />
+<p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="alpine" title="alpine" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="centOS" width="40" height="40"/> </p>
 
 #### Database Stack
-<img align="left" alt="MySQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Postgres" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="Cassendra" width="60px" src="https://camo.githubusercontent.com/9e80541492dd4f2815c1fca794e864ba054fb6dbee16d16471183b3c1c8dc4b1/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6170616368655f63617373616e6472612f6170616368655f63617373616e6472612d69636f6e2e737667" />
-
-<img align="left" alt="Couchbase" width="60px" src="https://camo.githubusercontent.com/c6279478664a7e92c0b1c756c7c662e507d9ca3aa94bdd2ded5d39c01ee5f454/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f636f756368626173652f636f756368626173652d69636f6e2e737667" />
-
-<br />
-<br />
-<br />
-
+<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" title="cassandra" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-icon.svg" alt="couchbase" title="couchbase" width="40" height="40"/> </p>
 
 #### Dev Stack
-<img align="left" alt="Maven" width="60px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_maven.svg" />
-<img align="left" alt="Sbt" width="60px" src="https://camo.githubusercontent.com/08ae26ac032f4ab4a960aac47dc6b86eb1a6738ec7e2ceeaec571585d34a33b9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7363616c612d7362742f7363616c612d7362742d69636f6e2e737667" />
-<img align="left" alt="Kafka" width="60px" src="https://camo.githubusercontent.com/b9d9be4825c5a5e8319f2a3e0624afe8b3dc76f81745c1b947561431c3ce3387/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6170616368655f6b61666b612f6170616368655f6b61666b612d69636f6e2e737667" />
-<img align="left" alt="elasticsearch" width="60px" src="https://camo.githubusercontent.com/d4cbacdc000de378e0dcae3b5ee54923c0ad04f6e52b7aa886a748fba5578def/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f656c61737469632f656c61737469632d69636f6e2e737667" />
+<p align="left"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_maven.svg" alt="maven" title="maven" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/scala-sbt/scala-sbt-icon.svg" alt="sbt" title="sbt" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" title="kafka" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" title="elasticsearch" width="40" height="40"/> </p>
 
-<br />
-<br />
-<br />
+#### DevOps Stack 
+<p align="left"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="gcp" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="ansible" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" title="circleci" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/codeship/codeship-icon.svg" alt="codeship" title="codeship" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/atlassian_bamboo/atlassian_bamboo-icon.svg" alt="bamboo" title="bamboo" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg" alt="harbor" title="harbor" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="harbor" title="harbor" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="traefik" title="traefik" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" alt="nginx" title="nginx" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="logstash" title="logstash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" title="kibana" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="promethues" title="promethues" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/graphiteapp/graphiteapp-icon.svg" alt="graphite" title="graphite" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="40" height="40"/> </p>
+
+#### Project Management Stack
+<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" title="bitbucket" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="trello" width="40" height="40"/></p>
+
+#### Editor / IDE I ♥
+<p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
 
 
