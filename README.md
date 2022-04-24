@@ -18,11 +18,11 @@
 
 🏢 I’m currently working in Rackspace Senior Cloud Engineer, looking to transiotn into DevOps/SRE Roles
 
-🌱 I’m currently working on Setting up infra using Terraform over AWS
+🌱 I’m currently working on Setting up infra using Terraform over AWS and GCP
 
 💡 Hashtag that describes me #DevOpsWizard
 
-📝 I regulary write articles on Rackspace Blogs
+📝 I often write articles on Rackspace Blogs
 
 💬 Ask me about DevOps Tools and Practices
 
@@ -46,7 +46,7 @@
 🧾 Certifications I have Accomplished
 🎖 Cloud DevOps NanoDegree - Udacity
 
-🎖 Various Certification of Docker and Kubernetes - Pluralsight
+🎖 Various Certification of Docker and Kubernetes - Linux Foundation
 
 🎖 AWS Concepts - LinuxAcademy
 
@@ -106,9 +106,9 @@
 
 
 
-[website]: https://qadirhassan.com/
-[course]: https://www.youtube.com/watch?v=mjYh6hlXmZk&t=293s&ab_channel=TutorialHero
-[twitter]: https://twitter.com/Qadir77350473
-[youtube]: https://www.youtube.com/channel/UCRUrJPsXvjsblevu514rkbQ
-[instagram]: https://www.instagram.com/qadir109/
+[website]: 
+[course]: 
+[twitter]: 
+[youtube]: 
+[instagram]: 
 [linkedin]: https://www.linkedin.com/in/hailedaniel/
