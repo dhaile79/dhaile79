@@ -16,7 +16,43 @@
 [<img align="left" alt="qadirhassan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' width='25px'>](https://www.facebook.com/qadir.hassan.142)  
 ***
+🏢 I’m currently working in Knoldus as Sr. DevOps Engineer
 
+🌱 I’m currently working on Setting up infra using Terraform over AWS
+
+💡 Hashtag that describes me #DevOpsWizard
+
+📝 I regulary write articles on Knoldus Blogs
+
+💬 Ask me about DevOps Tools and Practices
+
+📫 You can reach me at yatharth0045@gmail.com
+
+⚡ Fun fact We guys automate stuff
+
+👨‍💻 Some of the projects I have worked recently
+📦 Terraform Templates for setting up Infrastructure over AWS - Github
+
+📦 Deployment of a static webpage using AWS s3 and CloudFront - Github
+
+📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3 - Github
+
+📦 CI of a python application using circleCI - Github
+
+📦 Containerizing a ML MicroService and running it over Kubernetes - Github
+
+📦 A Capstone Project for setting up end to end devops pipeline prepared during accomplishing Udacity Cloud DevOps Nanodegree - Github
+
+🧾 Certifications I have Accomplished
+🎖 Cloud DevOps NanoDegree - Udacity
+
+🎖 Various Certification of Docker and Kubernetes - Pluralsight
+
+🎖 AWS Concepts - LinuxAcademy
+
+🎖 Packaging Applications using Helm - Pluralsight and many more...
+
+🎖🎖🎖 Complete list of my certifications [here][course]
 
 
 
