@@ -1,8 +1,8 @@
 
 # Hi there 👋 , I am Daniel Haile
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/daniel_sys)
-[![Twitter Follow](https://img.shields.io/twitter/follow/QADIR?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Qadir77350473)
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hailedaniel/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/QADIR?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/haile_thomas)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/daniel_sys)
 
 
 #### The DevOps Guy who ♥ automating stuff
