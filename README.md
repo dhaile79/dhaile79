@@ -75,20 +75,32 @@
 <br />
 <br />
 
+#### Database Stack
+<img align="left" alt="MySQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Postgres" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="Cassendra" width="60px" src="https://camo.githubusercontent.com/9e80541492dd4f2815c1fca794e864ba054fb6dbee16d16471183b3c1c8dc4b1/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6170616368655f63617373616e6472612f6170616368655f63617373616e6472612d69636f6e2e737667" />
 
-
-
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<img align="left" alt="JavaScript" width="60px" src="https://miro.medium.com/max/1400/1*Y1hq9sHXG26Fyhys81z8rg.png" />
-<img align="left" alt="C++" width="40px" src="https://www.codeguru.com/wp-content/uploads/2003/02/C-tutorials.jpg" />
-<img align="left" alt="C++" width="60px" src="https://s.w.org/about/images/logos/wordpress-logo-stacked-rgb.png" />
+<img align="left" alt="Couchbase" width="60px" src="https://camo.githubusercontent.com/c6279478664a7e92c0b1c756c7c662e507d9ca3aa94bdd2ded5d39c01ee5f454/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f636f756368626173652f636f756368626173652d69636f6e2e737667" />
 
 <br />
 <br />
+<br />
+
+
+#### Dev Stack
+<img align="left" alt="Maven" width="60px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_maven.svg" />
+<img align="left" alt="Sbt" width="60px" src="https://camo.githubusercontent.com/08ae26ac032f4ab4a960aac47dc6b86eb1a6738ec7e2ceeaec571585d34a33b9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7363616c612d7362742f7363616c612d7362742d69636f6e2e737667" />
+<img align="left" alt="Kafka" width="60px" src="https://camo.githubusercontent.com/b9d9be4825c5a5e8319f2a3e0624afe8b3dc76f81745c1b947561431c3ce3387/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6170616368655f6b61666b612f6170616368655f6b61666b612d69636f6e2e737667" />
+<img align="left" alt="elasticsearch" width="60px" src="https://camo.githubusercontent.com/d4cbacdc000de378e0dcae3b5ee54923c0ad04f6e52b7aa886a748fba5578def/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f656c61737469632f656c61737469632d69636f6e2e737667" />
+
+<br />
+<br />
+<br />
+
+
+
+
+
 
 
 
