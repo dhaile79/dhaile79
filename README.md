@@ -1,14 +1,17 @@
 
 # Hi there 👋 , I am Daniel Haile
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hailedaniel/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Dhaile?color=1DA1F2&logo=twitter&style=for-the-badge)](#)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/daniel_sys)
 
 
 #### The DevOps Guy who ♥ automating stuff
 
 
-[<img align="left" alt="qadirhassan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="qadirhassan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="daniel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="daniel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+</br>
 
 ***
 
