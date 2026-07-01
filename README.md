@@ -4,6 +4,8 @@
 
 Specialising in GCP, Terraform IaC, Kubernetes, and security-first automation. Currently focused on platform engineering: making it safe and fast for teams to ship infrastructure without fear.
 
+📚 **Currently studying:** [Level 6 AI Engineer Apprenticeship](https://www.cambridgespark.com/individuals/level-6-ai-engineer) — Cambridge Spark
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hailedaniel/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielehaile@hotmail.com)
 
@@ -32,11 +34,30 @@ Specialising in GCP, Terraform IaC, Kubernetes, and security-first automation. C
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+**Serverless & Functions**
+
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![Cloud Scheduler](https://img.shields.io/badge/Cloud_Scheduler-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**DevSecOps & Linux Hardening**
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare_WAF-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Hardening-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+
 **Security & Observability**
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**AI & LLM Tooling**
+
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
@@ -91,8 +112,10 @@ Built this after seeing teams afraid to run `terraform apply` on live projects. 
 ## 💡 What I'm thinking about
 
 - How to make Terraform safe enough that junior engineers can use it on production without a senior watching
-- AI-assisted infrastructure operations — not hype, just practical: CVE triage, cost anomaly detection, runbook automation
+- AI-assisted infrastructure operations — not hype, just practical: CVE triage, cost anomaly detection, runbook automation built with Claude Code as my primary coding tool
+- Linux hardening and DevSecOps as a first-class part of the platform, not a post-deployment checklist
 - Platform engineering as a product: internal tooling that engineers actually want to use
+- Bridging DevOps and AI engineering — working towards Level 6 AI Engineer (Cambridge Spark)
 
 ---
 
