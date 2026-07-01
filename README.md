@@ -13,11 +13,12 @@ I design resilient infrastructure, shift-left security pipelines, and AI-driven 
 
 ## 🛠 Featured Projects  
 
-- [Terraform GKE Cluster](https://github.com/dhaile79/terraform-gke-cluster) – IaC with scaling modules (HPA/VPA).  
+- [Terraform GKE Cluster Module](https://github.com/dhaile79/terraform-gke-cluster) – IaC with scaling modules (HPA/VPA).  
 - [CI/CD with GitHub Actions → GCP](https://github.com/dhaile79/cicd-pipeline) – Test, build, push & deploy.  
 - [GitOps with ArgoCD](https://github.com/dhaile79/argocd-gke) – Declarative deployments with approvals.  
 - [AI-Powered Automation Tools](https://github.com/dhaile79/automation-tools) – CVE remediation + FinOps dashboards.  
-- [Helm Deployments](https://github.com/dhaile79/helm-deployments) – Custom Helm charts for GKE.  
+- [Helm Deployments](https://github.com/dhaile79/helm-deployments) – Custom Helm charts for GKE.
+- [Terraform-gcp-adopt](https://github.com/dhaile79/terraform-gcp-adopt) –  Production-safe framework to adopt existing GCP infrastructure into Terraform — bulk import, drift      detection, destroy-gate and unmanaged resource alerts built in.   
 
 > ✨ More projects in [my portfolio](https://github.com/dhaile79?tab=repositories)  
 
