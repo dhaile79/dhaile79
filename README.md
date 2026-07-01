@@ -1,67 +1,99 @@
+# Hi, I'm Daniele Haile 👋
 
-# Hi 👋 I’m Daniel Haile 
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hailedaniel/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Dhaile?color=1DA1F2&logo=twitter&style=for-the-badge)](#)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/daniel_sys)
+**Senior DevOps & SRE Engineer** — I build infrastructure that doesn't break at 3am.
 
+Specialising in GCP, Terraform IaC, Kubernetes, and security-first automation. Currently focused on platform engineering: making it safe and fast for teams to ship infrastructure without fear.
 
-🚀 **Senior DevOps & SRE Engineer | Cloud • Security • Automation • AI-driven Ops**  
-Currently at **AllSaints Fashion Brand**, specializing in **GCP/AWS**, **Terraform IaC**, **Ansible**, **Helm**, and **DevSecOps automation**.  
-I design resilient infrastructure, shift-left security pipelines, and AI-driven remediation tools.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hailedaniel/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielehaile@hotmail.com)
 
 ---
 
-## 🛠 Featured Projects  
+## 🔧 Tech Stack
 
-- [Terraform GKE Cluster Module](https://github.com/dhaile79/terraform-gke-cluster) – IaC with scaling modules (HPA/VPA).  
-- [CI/CD with GitHub Actions → GCP](https://github.com/dhaile79/cicd-pipeline) – Test, build, push & deploy.  
-- [GitOps with ArgoCD](https://github.com/dhaile79/argocd-gke) – Declarative deployments with approvals.  
-- [AI-Powered Automation Tools](https://github.com/dhaile79/automation-tools) – CVE remediation + FinOps dashboards.  
-- [Helm Deployments](https://github.com/dhaile79/helm-deployments) – Custom Helm charts for GKE.
-- [Terraform-gcp-adopt](https://github.com/dhaile79/terraform-gcp-adopt) –  Production-safe framework to adopt existing GCP infrastructure into Terraform — bulk import, drift      detection, destroy-gate and unmanaged resource alerts built in.   
+**Cloud & IaC**
 
-> ✨ More projects in [my portfolio](https://github.com/dhaile79?tab=repositories)  
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
----
+**Containers & Orchestration**
 
-## ⚡ Skills  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 
-- **Cloud:** GCP (primary), AWS, Azure (exposure)  
-- **IaC & CM:** Terraform, Ansible, Helm  
-- **Containers & Orchestration:** Kubernetes (GKE), Docker, ArgoCD  
-- **CI/CD:** GitHub Actions, Jenkins, GitLab CI  
-- **Security:** Shift-left pipelines, CVE remediation, Cloudflare WAF/bot mitigation  
-- **AI/Automation:** Gemini AI, LLM-powered remediation, FinOps optimization  
-- **Linux/Infra:** VM OS lifecycle automation, monitoring, troubleshooting  
+**CI/CD & Automation**
 
----
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 📜 Certifications  
+**Security & Observability**
 
-- Google Cloud Professional DevOps Engineer  
-- Google Cloud Professional Cloud Architect  
-- Terraform Associate  
-- Certified Kubernetes Administrator (CKA)  
-- Google Cloud Associate Engineer  
-- More in [docs/certifications.md](./docs/certifications.md)  
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ---
 
-## 📫 Contact  
+## 🚀 Featured Projects
 
-- 💼 [LinkedIn](https://linkedin.com/in/hailedaniel/en)  
-- ✉️ danielehaile@hotmail.com  
+### [terraform-gcp-adopt](https://github.com/dhaile79/terraform-gcp-adopt)
+> Production-safe framework for adopting existing GCP infrastructure into Terraform.
 
+Built this after seeing teams afraid to run `terraform apply` on live projects. It bulk-imports resources, injects `prevent_destroy = true` on everything, runs a destroy-gate before every apply, and emails drift reports via a Cloud Run Job + Cloud Asset Inventory scan. Zero resources deleted, zero surprises.
 
+`Terraform` `Python` `Cloud Run` `Cloud Scheduler` `Mailgun` `GCP`
 
 ---
-![Profile views](https://gpvc.arturio.dev/dhaile79)</br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dhaile79&show_icons=true) </br>
-![GitHub metrics](https://metrics.lecoq.io/dhaile79)  
 
-[website]: https://qadirhassan.com/
-[course]: https://www.youtube.com/watch?v=mjYh6hlXmZk&t=293s&ab_channel=TutorialHero
-[twitter]: https://twitter.com/Qadir77350473
-[youtube]: https://www.youtube.com/channel/UCRUrJPsXvjsblevu514rkbQ
-[instagram]: https://www.instagram.com/qadir109/
-[linkedin]: https://www.linkedin.com/in/hailedaniel/
+### [terraform-gke-cluster](https://github.com/dhaile79/terraform-gke-cluster)
+> GKE cluster module with autoscaling, node pool management, and workload identity.
+
+`Terraform` `GKE` `HPA` `VPA`
+
+---
+
+### [Devops_Challenge](https://github.com/dhaile79/Devops_Challenge)
+> Collection of real-world DevOps scenarios and solutions.
+
+`Docker` `Kubernetes` `CI/CD`
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer |
+|---|---|
+| Professional DevOps Engineer | Google Cloud |
+| Professional Cloud Architect | Google Cloud |
+| Associate Cloud Engineer | Google Cloud |
+| Terraform Associate | HashiCorp |
+| Certified Kubernetes Administrator (CKA) | CNCF |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhaile79&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhaile79&theme=dark&hide_border=true" height="165" />
+</p>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhaile79&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 💡 What I'm thinking about
+
+- How to make Terraform safe enough that junior engineers can use it on production without a senior watching
+- AI-assisted infrastructure operations — not hype, just practical: CVE triage, cost anomaly detection, runbook automation
+- Platform engineering as a product: internal tooling that engineers actually want to use
+
+---
+
+*Open to Staff / Principal DevOps, SRE, and Platform Engineering roles. Based in London. Remote-friendly.*
