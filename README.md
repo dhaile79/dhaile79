@@ -1,4 +1,4 @@
-# Hi, I'm Daniele Haile 👋
+# Hi, I'm Daniel Haile 👋 aka Dan
 
 **Senior DevOps & SRE Engineer** — I build infrastructure that doesn't break at 3am.
 
